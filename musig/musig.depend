@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1504397063 source:c:\users\kill m-m\desktop\musig\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<MMSystem.h>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+
